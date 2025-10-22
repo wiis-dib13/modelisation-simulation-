@@ -9,4 +9,14 @@ Votre programme devra permettre de répondre aux requêtes suivantes sur les ré
 a) Pour une place donnée, quelles sont ses transitions de sortie ?
 b) Pour une place donnée, quelles sont ses transitions d'entrée ?
 c) Pour une transition donnée, quelles sont ses places de sortie ?
-d) Pour une transition donnée, quelles sont ses places d'entrée ? 
+d) Pour une transition donnée, quelles sont ses places d'entrée ?
+
+## exo 2
+a) Implémenter un algorithme de génération de l'arborescence des états atteignables, afin d'énumérer
+exhaustivement tous les états dans lesquels le système peut évoluer via le formalisme des réseaux
+de Pétri dans les deux cas suivants :
+2/2
+- Un réseau borné
+- Un réseau non borné
+b) Implémenter un algorithme qui permet de générer le graphe de transitions résultant de
+l’arborescence des états atteignables ? 
