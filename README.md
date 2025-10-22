@@ -19,4 +19,18 @@ de Pétri dans les deux cas suivants :
 - Un réseau borné
 - Un réseau non borné
 b) Implémenter un algorithme qui permet de générer le graphe de transitions résultant de
-l’arborescence des états atteignables ? 
+l’arborescence des états atteignables ?
+
+## exo3
+Dans cette étude de cas il est demandé de modéliser le système de feux de circulation (feux tricolores)
+d'un carrefour à deux tronçons à l'aide des réseaux de Pétri.
+Travail à réaliser :
+a) Modélisation
+‑ Représenter les feux de circulation par un réseau de Pétri
+‑ Décrire les différents scénarios de fonctionnement
+b) Analyse comportementale
+‑ Construire l'arborescence des états atteignables
+‑ Identifier tous les états possibles du système
+c) Vérification des propriétés
+‑ Détecter les éventuels problèmes de famine (starvation)
+‑ Identifier les risques d'interblocage 
