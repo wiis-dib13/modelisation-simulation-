@@ -34,3 +34,6 @@ b) Analyse comportementale
 c) Vérification des propriétés
 ‑ Détecter les éventuels problèmes de famine (starvation)
 ‑ Identifier les risques d'interblocage 
+
+## ex3 - p - p2
+ces exos font reference a la theorie de file d'attente 
